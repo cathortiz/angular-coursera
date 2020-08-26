@@ -1,1 +1,1 @@
-LEEME
+Ejercicios del curso **Desarrollo de páginas con Angular** por Universidad Austral en **Coursera**.
